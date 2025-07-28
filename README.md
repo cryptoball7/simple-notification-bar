@@ -31,6 +31,29 @@ You can customize:
 
 The plugin injects a `div` at the top of your site using the `wp_body_open` hook. All customization is handled via the WordPress admin panel using the Options API.
 
+## 📂 File Structure
+
+```
+simple-notification-bar/
+├── simple-notification-bar/
+│ ├── css/
+│ | └── notification-bar.css
+| ├── js/
+│ | └── snb-admin.js
+| └── simple-notification-bar.php
+├── LICENSE
+└── README.md
+```
+
+## 🖼️ Screenshot
+
+<img width="1583" height="797" alt="Screenshot" src="https://github.com/user-attachments/assets/8caf03cd-cc7d-44ae-a0e9-bf7d499085f6" />
+
+## 📜 License
+
+This plugin is open-source and distributed under the [GNU GPLv3 License](https://github.com/cryptoball7/simple-notification-bar/blob/main/LICENSE).
+
+
 ---
 
 **Created by Cryptoball7**
