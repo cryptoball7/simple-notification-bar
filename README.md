@@ -33,5 +33,5 @@ The plugin injects a `div` at the top of your site using the `wp_body_open` hook
 
 ---
 
-**Created by [Cryptoball7]**
+**Created by Cryptoball7**
 
