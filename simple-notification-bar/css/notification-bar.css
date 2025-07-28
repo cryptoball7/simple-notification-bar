@@ -1,0 +1,7 @@
+.snb-bar {
+    padding: 10px 20px;
+    text-align: center;
+    position: relative;
+    z-index: 9999;
+    font-size: 16px;
+}
